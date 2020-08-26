@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin:0;
+}
+
+p {
+    font-family: "Lucida Console", Monaco, monospace;
+}
+
+.main-title {
+    margin: 20px;
+    color: blue;
+    text-align: center;
+}
+
+.unencoded-text {
+    padding: 20px;
+}
+
+.unencoded-string {
+    padding: 20px;
+}
+
+.coded-text {
+    padding: 20px;
+}
+
+.coded-string {
+    padding:20px;
+}
+
+.decrypted-text {
+    padding: 20px;
+}
+
+.decrypted-string {
+    padding: 20px;
+}
