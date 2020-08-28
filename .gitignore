@@ -1,6 +1,6 @@
 node_modules/
 package-lock.json
 package.json
-public/p5.dom.min.js
-public/p5.min.js
-public/p5.sound.min.js
+p5/
+.DS_Store
+.gitignore
